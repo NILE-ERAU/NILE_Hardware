@@ -1,0 +1,5 @@
+Thanks for viewing the NILE CAD!
+
+To access please extract all files in the same directory using the 7-Zip (or eqivelent) "Extract Here" function.
+
+For example the file path for folder one should look like "/CAD/1 - Frame"
